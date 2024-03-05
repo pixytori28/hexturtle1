@@ -1,0 +1,19 @@
+#name:Victoria Inahuazo
+#email:victoria.inahuazo11@myhunter.cuny.edu
+#date: 03/04/24
+#the following program generates a turtle with hexcode
+
+import turtle
+wn = turtle.Screen()
+
+
+turtle.colormode(255)
+donnie = turtle.Turtle()
+donnie.shape("turtle")
+donnie.color("#A922A9")
+
+
+donnie.shape("turtle")
+donnie.color("#00AAAA")
+
+wn.exitonclick()
